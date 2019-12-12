@@ -1,0 +1,8 @@
+userName	anshika
+password	Anshika@1
+email	        anshi@gmail.com
+
+
+userName	shagun
+password	shagun.G2
+email	        shagun@gmail.com
